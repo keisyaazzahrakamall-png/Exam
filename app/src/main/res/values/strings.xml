@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="view">VIEW</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="add">ADD</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="enter_student_name">Enter Student Name</string>
+    <string name="student_data">Student Data</string>
+</resources>
